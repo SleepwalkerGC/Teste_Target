@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exec_1", "Exec_1.csproj", "{05FC6CC3-82AD-4EA4-8A36-D56CB9FAF30E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exec_1", "Exec_1\Exec_1.csproj", "{05FC6CC3-82AD-4EA4-8A36-D56CB9FAF30E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exec_2", "..\Exec_2\Exec_2.csproj", "{C01D88D0-16DD-4E15-A7BA-B7E120E24B46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exec_2", "Exec_2\Exec_2.csproj", "{C01D88D0-16DD-4E15-A7BA-B7E120E24B46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exec_3", "..\Exec_3\Exec_3.csproj", "{D70C275A-B7D4-4D9F-AAD0-6451699BC26E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exec_3", "Exec_3\Exec_3.csproj", "{D70C275A-B7D4-4D9F-AAD0-6451699BC26E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exec_4", "..\Exec_4\Exec_4.csproj", "{5021167A-85E6-4FE1-BC5F-F41902BAB58E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exec_4", "Exec_4\Exec_4.csproj", "{5021167A-85E6-4FE1-BC5F-F41902BAB58E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exec_5", "..\Exec_5\Exec_5.csproj", "{EC9326F7-29A2-4810-8290-05C026510CFD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exec_5", "Exec_5\Exec_5.csproj", "{EC9326F7-29A2-4810-8290-05C026510CFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
