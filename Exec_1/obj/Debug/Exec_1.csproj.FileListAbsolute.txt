@@ -1,0 +1,7 @@
+C:\Users\TOILLIER\Documents\GitHub\Teste_Target\Exec_1\bin\Debug\Exec_1.exe.config
+C:\Users\TOILLIER\Documents\GitHub\Teste_Target\Exec_1\bin\Debug\Exec_1.exe
+C:\Users\TOILLIER\Documents\GitHub\Teste_Target\Exec_1\bin\Debug\Exec_1.pdb
+C:\Users\TOILLIER\Documents\GitHub\Teste_Target\Exec_1\obj\Debug\Exec_1.csproj.AssemblyReference.cache
+C:\Users\TOILLIER\Documents\GitHub\Teste_Target\Exec_1\obj\Debug\Exec_1.csproj.CoreCompileInputs.cache
+C:\Users\TOILLIER\Documents\GitHub\Teste_Target\Exec_1\obj\Debug\Exec_1.exe
+C:\Users\TOILLIER\Documents\GitHub\Teste_Target\Exec_1\obj\Debug\Exec_1.pdb
