@@ -1,0 +1,7 @@
+C:\Users\samuc\Desktop\Teste\Exec_5\bin\Debug\Exec_5.exe.config
+C:\Users\samuc\Desktop\Teste\Exec_5\bin\Debug\Exec_5.exe
+C:\Users\samuc\Desktop\Teste\Exec_5\bin\Debug\Exec_5.pdb
+C:\Users\samuc\Desktop\Teste\Exec_5\obj\Debug\Exec_5.csproj.AssemblyReference.cache
+C:\Users\samuc\Desktop\Teste\Exec_5\obj\Debug\Exec_5.csproj.CoreCompileInputs.cache
+C:\Users\samuc\Desktop\Teste\Exec_5\obj\Debug\Exec_5.exe
+C:\Users\samuc\Desktop\Teste\Exec_5\obj\Debug\Exec_5.pdb

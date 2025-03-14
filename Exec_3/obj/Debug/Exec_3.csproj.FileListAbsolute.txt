@@ -1,0 +1,10 @@
+C:\Users\samuc\Desktop\Teste\Exec_3\bin\Debug\Exec_3.exe.config
+C:\Users\samuc\Desktop\Teste\Exec_3\bin\Debug\Exec_3.exe
+C:\Users\samuc\Desktop\Teste\Exec_3\bin\Debug\Exec_3.pdb
+C:\Users\samuc\Desktop\Teste\Exec_3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\samuc\Desktop\Teste\Exec_3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\samuc\Desktop\Teste\Exec_3\obj\Debug\Exec_3.csproj.AssemblyReference.cache
+C:\Users\samuc\Desktop\Teste\Exec_3\obj\Debug\Exec_3.csproj.CoreCompileInputs.cache
+C:\Users\samuc\Desktop\Teste\Exec_3\obj\Debug\Exec_3.csproj.Up2Date
+C:\Users\samuc\Desktop\Teste\Exec_3\obj\Debug\Exec_3.exe
+C:\Users\samuc\Desktop\Teste\Exec_3\obj\Debug\Exec_3.pdb

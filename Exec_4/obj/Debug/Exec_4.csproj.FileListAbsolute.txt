@@ -1,0 +1,7 @@
+C:\Users\samuc\Desktop\Teste\Exec_4\bin\Debug\Exec_4.exe.config
+C:\Users\samuc\Desktop\Teste\Exec_4\bin\Debug\Exec_4.exe
+C:\Users\samuc\Desktop\Teste\Exec_4\bin\Debug\Exec_4.pdb
+C:\Users\samuc\Desktop\Teste\Exec_4\obj\Debug\Exec_4.csproj.AssemblyReference.cache
+C:\Users\samuc\Desktop\Teste\Exec_4\obj\Debug\Exec_4.csproj.CoreCompileInputs.cache
+C:\Users\samuc\Desktop\Teste\Exec_4\obj\Debug\Exec_4.exe
+C:\Users\samuc\Desktop\Teste\Exec_4\obj\Debug\Exec_4.pdb
